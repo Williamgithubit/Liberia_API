@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Palm Butter Soup"
+  },
+  {
+    "id": 2,
+    "name": "Cassava Leaf Soup"
+  },
+  {
+    "id": 3,
+    "name": "Bitterball Soup"
+  },
+  {
+    "id": 4,
+    "name": "Okra Soup"
+  },
+  {
+    "id": 5,
+    "name": "Pepper Soup"
+  },
+  {
+    "id": 6,
+    "name": "Groundnut Soup"
+  },
+  {
+    "id": 7,
+    "name": "Fish Soup"
+  },
+  {
+    "id": 8,
+    "name": "Goat Meat Soup"
+  },
+  {
+    "id": 9,
+    "name": "Chicken Soup"
+  },
+  {
+    "id": 10,
+    "name": "Beef Soup"
+  }
+]
